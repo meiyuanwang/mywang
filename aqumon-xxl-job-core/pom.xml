@@ -2,11 +2,11 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-		<groupId>com.xuxueli</groupId>
-		<artifactId>xxl-job</artifactId>
-		<version>2.2.1-SNAPSHOT</version>
+		<groupId>com.magnumresearch.aqumon</groupId>
+		<artifactId>aqumon-xxl-job</artifactId>
+		<version>3.0.0-SNAPSHOT</version>
 	</parent>
-	<artifactId>xxl-job-core</artifactId>
+	<artifactId>aqumon-xxl-job-core</artifactId>
 	<packaging>jar</packaging>
 
 	<name>${project.artifactId}</name>
