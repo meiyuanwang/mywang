@@ -117,11 +117,11 @@
 		</profile>
 	</profiles>
 
-		<distributionManagement>
+	<distributionManagement>
 		<snapshotRepository>
 			<id>aqumon-snapshots</id>
 			<name>AQUMON Snapshots Repository</name>
-			<url>https://mvn.aqumon.com/content/repository/snapshots/</url>
+			<url>https://mvn.aqumon.com/content/repositories/snapshots/</url>
 		</snapshotRepository>
 		<repository>
 			<id>aqumon-releases</id>
